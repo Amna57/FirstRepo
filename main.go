@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 
+	fmt.Println("Commit for beta branch")
 	fmt.Print("Enter a number: ")
 	var input int
 	fmt.Scanln(&input)
